@@ -41,10 +41,10 @@ Yeah pimp the poorly design keyboard layout for vim (and for coding)!
 
 ### My solution
 
-1. Install hungarian-vim keyboard layout.\
-1. Remap your home row as `asdf` - `kléá` in your mind (also in .vimrc).\
-1. Use `AltGr` with your left thumb.\
-1. Remap your `Esc` to `CapsLock` with a remapper sw (I use PowerToys).\
+1. Install hungarian-vim keyboard layout.
+1. Remap your home row as `asdf` - `kléá` in your mind (also in .vimrc).
+1. Use `AltGr` with your left thumb.
+1. Remap your `Esc` to `CapsLock` with a remapper sw (I use PowerToys).
 1. Remap your movements regarding special chars, practice, practice.
 
 ![image](https://user-images.githubusercontent.com/10813418/151016953-3779afa1-9ab2-4da0-a038-c7ae7294bb2f.png)
