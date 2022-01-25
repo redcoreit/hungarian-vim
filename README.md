@@ -1,13 +1,13 @@
 # What is this?
 
-Vim friendly hungarian keyboard layout for Windows.
+Vim friendly Hungarian keyboard layout for Windows.
 
 ## Why why why?
 
-"Vi(m) was originally designed for english keyboard layout."\
+"Vi(m) was originally designed for English keyboard layout."\
 Ok.
 
-"All coder must use english layout!"\
+"All coder must use English layout!"\
 I know!
 
 "Do you really want to press two keys to write semicolon?"\
@@ -16,15 +16,15 @@ stop... I said I get it!
 ...
 
 Actually it was design for [ADM-3A terminal](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys).\
-So why can't we use other layouts than english?\
-Especially if your native language is not english and you are forced to use native layout in your daily whatever.\
+So why can't we use other layouts than English?\
+Especially if your native language is not English and you are forced to use native layout in your daily whatever.\
 
 Now you can see where I'm heading with this :)\
-Yeah pimp the poorly design hung keyboard layout for vim (and for coding)!
+Yeah pimp the poorly design keyboard layout for vim (and for coding)!
 
 ## Ok what is your offer?
 
-### The original hungarian keyboard layout
+### The original Hungarian keyboard layout
 
 ![image](https://user-images.githubusercontent.com/10813418/150185240-e3fb15a2-f631-497f-98a7-42307a1626e9.png)
 
@@ -41,7 +41,7 @@ Yeah pimp the poorly design hung keyboard layout for vim (and for coding)!
 
 ### My solution
 
-1. Install hungarian_vim keyboard layout.\
+1. Install hungarian-vim keyboard layout.\
 1. Remap your home row as `asdf` - `kléá` in your mind (also in .vimrc).\
 1. Use `AltGr` with your left thumb.\
 1. Remap your `Esc` to `CapsLock` with a remapper sw (I use PowerToys).\
@@ -53,13 +53,15 @@ Yeah pimp the poorly design hung keyboard layout for vim (and for coding)!
 
 ## The benefits
 
-- You can reach the `Enter` key easier.
-- Less home row leave (left hand).
 - You will type much much faster.
+- Less home row leave (left hand).
+- You can reach the `Enter` key easier.
 - Numeric keys can be reached easier.
-- Your colleges will be envy.
-- Your better half will complaining about the fast typing frequency that you produce recently.
 - Your wrist will thank you.
+- Your better half will complaining about the fast typing noise that you produce recently.
+- Your colleges will be envy.
+
+![image](https://i.ytimg.com/vi/KEkrWRHCDQU/maxresdefault.jpg)
 
 ## Tooling
 
