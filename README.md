@@ -4,11 +4,15 @@ Vim friendly hungarian keyboard layout for Windows.
 
 ## Why why why?
 
-I know, I know, stop... I said I get it!
-
 "Vi(m) was originally designed for english keyboard layout."\
+Ok.
+
 "All coder must use english layout!"\
+I know!
+
 "Do you really want to press two keys to write semicolon?"\
+stop... I said I get it!
+
 ...
 
 Actually it was design for [ADM-3A terminal](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys).\
@@ -33,24 +37,33 @@ Yeah pimp the poorly design hung keyboard layout for vim (and for coding)!
 - In reality the `ű` key is between the `á` key and the `Enter` key. -> your left hand (`hjkl`) is far from the `Enter` key.
 - You have to `Shift` all the time to produce special chars. -> you are typing slow, and it feels like...controlling some weird puppet-show.
 - Your left hand shall leave the home row all the time. -> slow again.
+- It's a bit personal but I hate the numpad, and I also hate the numeric row in alphanumeric keyboard. I'm not efficient with those.
 
 ### My solution
 
-Install hungarian_vim keyboard layout.\
-Remap your home row as `asdf` - `kléá` in your mind (and in .vimrc).\
-Use `AltGr` with your left thumb.\
-Remap your `Esc` to `CapsLock` with a remapper sw (I use PowerToys).\
-Remap your movements regarding special chars, practice, practice.
+1. Install hungarian_vim keyboard layout.\
+1. Remap your home row as `asdf` - `kléá` in your mind (also in .vimrc).\
+1. Use `AltGr` with your left thumb.\
+1. Remap your `Esc` to `CapsLock` with a remapper sw (I use PowerToys).\
+1. Remap your movements regarding special chars, practice, practice.
 
-![image](https://user-images.githubusercontent.com/10813418/150188817-33baaa3d-7007-4c95-ba6a-55c79999eeaa.png)
+![image](https://user-images.githubusercontent.com/10813418/151016953-3779afa1-9ab2-4da0-a038-c7ae7294bb2f.png)
 
-### The benefits
+![image](https://user-images.githubusercontent.com/10813418/151017056-6fef983c-e14b-41a4-b1af-232f1a2ef82e.png)
+
+## The benefits
 
 - You can reach the `Enter` key easier.
 - Less home row leave (left hand).
 - You will type much much faster.
+- Numeric keys can be reached easier.
 - Your colleges will be envy.
 - Your better half will complaining about the fast typing frequency that you produce recently.
 - Your wrist will thank you.
+
+## Tooling
+
+I use [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) to create layouts.\
+If you want to customzie it or create your own I recommend this tool.
 
 > Azt ne kérdezd meg, hogy miért angolul írtam ezt az egészet, de Magyarországon mindenki tud angolul, nem?! :D
