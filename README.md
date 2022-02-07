@@ -60,6 +60,7 @@ Yeah pimp the poorly design keyboard layout for vim (and for coding)!
 - Your wrist will thank you.
 - Your better half will complaining about the fast typing noise that you produce recently.
 - Your colleagues will be envy.
+- You become
 
 ![image](https://i.ytimg.com/vi/KEkrWRHCDQU/maxresdefault.jpg)
 
