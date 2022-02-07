@@ -17,7 +17,7 @@ stop... I said I get it!
 
 Actually it was design for [ADM-3A terminal](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys).\
 So why can't we use other layouts than English?\
-Especially if your native language is not English and you are forced to use native layout in your daily whatever.\
+Especially if your native language is not English and you are forced to use native layout in your daily whatever.
 
 Now you can see where I'm heading with this :)\
 Yeah pimp the poorly design keyboard layout for vim (and for coding)!
@@ -59,7 +59,7 @@ Yeah pimp the poorly design keyboard layout for vim (and for coding)!
 - Numeric keys can be reached easier.
 - Your wrist will thank you.
 - Your better half will complaining about the fast typing noise that you produce recently.
-- Your colleges will be envy.
+- Your colleagues will be envy.
 
 ![image](https://i.ytimg.com/vi/KEkrWRHCDQU/maxresdefault.jpg)
 
