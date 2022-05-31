@@ -49,14 +49,14 @@ Yeah pimp the poorly design keyboard layout for vim (and for coding)!
 
 ![image](https://user-images.githubusercontent.com/10813418/151016953-3779afa1-9ab2-4da0-a038-c7ae7294bb2f.png)
 
-![image](https://user-images.githubusercontent.com/10813418/151017056-6fef983c-e14b-41a4-b1af-232f1a2ef82e.png)
+![Hung-VimShftAltGr](https://user-images.githubusercontent.com/10813418/171149144-bcfc1794-552b-4f7f-8058-933b3c37003d.jpg)
 
 ## The benefits
 
-- You will type much much faster.
+- You will type BLAZINGLY FAST.
 - Less home row leave (left hand).
 - You can reach the `Enter` key easier.
-- Numeric keys can be reached easier.
+- Numeric keys usage will be easier.
 - Your wrist will thank you.
 - Your better half will complaining about the fast typing noise that you produce recently.
 - Your colleagues will be envy.
